@@ -8,13 +8,13 @@ I like clear and simple things - they have true power. If you worry your work or
 Both of client and developer can meet satisfied quotes and clear specs through enough discussions.
 🌟Reponsive communication
 Finds issues that clients miss and good solutions through serious discussions
-- 🌟Keeping deadline
+🌟Keeping deadline
 In any business, time is the key to success
-- 🌟Simple and optimzed Project | Database Structure
+🌟Simple and optimzed Project | Database Structure
 Optimal database performance impacts the operational efficiency of your business.
-- 🌟UI/UX designs - users love and follow
+🌟UI/UX designs - users love and follow
 Creative and clean UI will attract customers and they will like to visit your website on their experience.
-- 🌟A readable and efficient code
+🌟A readable and efficient code
 Readable and efficient code lets other developers analyze your project quickly and optimize the performance.
 
 #### My prepared stacks
