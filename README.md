@@ -1,6 +1,6 @@
 Hello 👋
 
-I am **Oleksandr Hunka**, a ***FULLSTACK DEVELOPER*** with 10+ years of experience. I have mastered _Javascript, Typescript, Php and Python_, but I prefer **Javascript** and **Python** because its advantages attract me. Good experience and skills got for last many years have made me confident in any project development (E-Commerce, Fintech, Medical, Educational and so on) and teamwork. 
+I am **Oleksandr Hunka**, a ***FULLSTACK DEVELOPER*** with 10+ years of experience. I have mastered _Javascript, Typescript, Php and Python_, but I prefer ***Javascript*** and ***Python*** because its advantages attract me. Good experience and skills got for last many years have made me confident in any project development (E-Commerce, Fintech, Medical, Educational and so on) and teamwork. 
 
 ## No challenges failed, Only challenges not encountered. 
 
