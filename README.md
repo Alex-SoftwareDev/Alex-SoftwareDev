@@ -4,7 +4,7 @@ I am **Oleksandr Hunka**, a ***FULLSTACK DEVELOPER*** with 10+ years of experien
 I like clear and simple things - they have true power. If you worry your work or looks for a good teamate, please contact me.
 
 #### I prefer the following factors🚀 in projcet development
->🌟Deep Understanding of requirements
+>🌟Deep Understanding of requirements 
  Both of client and developer can meet satisfied quotes and clear specs through enough discussions.
  🌟Reponsive communication
  Finds issues that clients miss and good solutions through serious discussions
