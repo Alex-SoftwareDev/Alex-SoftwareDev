@@ -9,7 +9,6 @@ I like clear and simple things - they have true power. If you worry your work or
 #### I prefer the following factors🚀 in projcet development
 ```
 🌟Deep Understanding of requirements 
- 
  Both of client and developer can meet satisfied quotes and clear specs through enough discussions.
  
  🌟Reponsive communication
